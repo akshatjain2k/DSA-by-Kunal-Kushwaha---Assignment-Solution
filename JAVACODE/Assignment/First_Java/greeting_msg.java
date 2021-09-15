@@ -1,4 +1,4 @@
-package Assignment.First_Java;
+// 2. Take name as input and print a greeting message for that name.
 
 import java.util.Scanner;
 
@@ -11,6 +11,6 @@ public class greeting_msg {
         System.out.print("What Is Your Name: ");
         String name = in.nextLine();
 
-        System.out.print("Nice To Meet You, "+name);
+        System.out.print("Good Morning, "+ name);
     }
 }

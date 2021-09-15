@@ -1,4 +1,4 @@
-package Assignment.First_Java;
+// 3. Write a program to input principle, time and rate (P, T, R) from user and find Simple Interest.
 
 import java.util.Scanner;
 

@@ -1,4 +1,5 @@
-package Assignment.First_Java;
+// 1. Write a program to print whether a number is even or odd, also take input.
+
 
 import java.util.Scanner;
 

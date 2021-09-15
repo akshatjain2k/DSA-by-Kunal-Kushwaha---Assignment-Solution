@@ -1,3 +1,6 @@
+// 3. Area Of Rectangle Program 
+
+
 import java.util.Scanner;
 
 public class rectangle_area {

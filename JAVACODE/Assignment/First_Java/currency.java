@@ -1,4 +1,4 @@
-package Assignment.First_Java;
+// 6. Input currency in rupee and output in dollar.
 
 import java.util.Scanner;
 
