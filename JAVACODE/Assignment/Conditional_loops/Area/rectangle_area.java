@@ -1,5 +1,5 @@
 // 3. Area Of Rectangle Program 
-
+package Area;
 
 import java.util.Scanner;
 
