@@ -2,6 +2,7 @@
 /* Image result for 7. Area Of Equilateral Triangle
 In an equilateral triangle, median, angle bisector and altitude for all sides are all the same and are the lines of symmetry of the equilateral triangle.
  */ 
+package Area;
 
  
 import java.util.Scanner;

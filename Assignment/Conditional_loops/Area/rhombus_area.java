@@ -1,4 +1,5 @@
 // 6. Area Of Rhombus
+package Area;
 
 import java.util.Scanner;
 

@@ -1,5 +1,6 @@
 // 4. Area Of Isosceles Triangle :- 
 // Isosceles Triangle- A triangle with any two sides/angles equal. 
+package Area;
 
 import java.util.Scanner;
 

@@ -1,4 +1,5 @@
 //2. Area Of Triangle
+package Area;
 
 import java.util.Scanner;
 public class triangle_area {
