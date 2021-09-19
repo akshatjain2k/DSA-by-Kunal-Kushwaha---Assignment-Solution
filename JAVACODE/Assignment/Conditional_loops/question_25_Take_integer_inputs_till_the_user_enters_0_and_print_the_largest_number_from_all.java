@@ -1,4 +1,3 @@
-
 //25. Take integer inputs till the user enters 0 and print the largest number from all.
 
 import java.util.Scanner;
@@ -27,7 +26,8 @@ public class question_25_Take_integer_inputs_till_the_user_enters_0_and_print_th
      System.out.println("Sum of All the element: "+sum);
      System.out.println("Largest Number: "+max);
 
- }}
+ }
+}
 
 
         
