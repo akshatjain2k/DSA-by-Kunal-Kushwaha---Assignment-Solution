@@ -1,6 +1,7 @@
+//22. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
+
 import java.util.Scanner;
 
-//22. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 public class question_22 {
     public static void main(String[] args) {
         int num,digit,prod=1,sum=0,result=0;

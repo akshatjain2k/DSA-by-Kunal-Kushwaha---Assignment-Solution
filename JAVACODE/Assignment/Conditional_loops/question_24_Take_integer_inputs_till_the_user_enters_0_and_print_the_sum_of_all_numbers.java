@@ -7,8 +7,6 @@ public class question_24_Take_integer_inputs_till_the_user_enters_0_and_print_th
         
         int sum=0;
         Scanner in = new Scanner(System.in);
-        // System.out.print("Enter Any Number: ");
-        // n = in.nextInt();
 
         while(true){
             System.out.print("Enter Any Number: ");
