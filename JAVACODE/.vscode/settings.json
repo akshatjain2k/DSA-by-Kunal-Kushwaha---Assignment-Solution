@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "Assignment/First_Java",
         "Assignment/Conditional_loops",
-        "Assignment/First_Java"
+        "Assignment/Functions"
     ]
 }
