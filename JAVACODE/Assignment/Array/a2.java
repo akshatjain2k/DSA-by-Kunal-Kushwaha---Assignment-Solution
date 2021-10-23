@@ -9,5 +9,5 @@ public class a2 {
             ans[i+r] = nums[i];
         }
         return ans;
-}
+    }
 }
